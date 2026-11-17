@@ -3,3 +3,5 @@ Allow: /
 
 Sitemap: https://bsjuuny.github.io/sitemap.xml
 Sitemap: https://bsjuuny.github.io/techblog/sitemap.xml
+
+#DaumWebMasterTool:43f986731390beff337755224e6b8db0b91448cf8d5deea060a6c956af2c5e5f:/U8QWp/Cxm097lAEJOWTSw==
